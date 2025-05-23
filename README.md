@@ -16,7 +16,9 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isabelamihai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=isabelamihai&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamihai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamihai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isabelamihai&icon=7&color=5)](https://visitcount.itsvg.in)
